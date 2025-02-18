@@ -323,3 +323,10 @@ Screenshot of generated plot
 ![4-1](https://github.com/user-attachments/assets/2ef2170f-393a-4622-93e9-802a7487afbc)
 
 
+
+![Picture1](https://github.com/user-attachments/assets/8b98c730-e42d-4a90-8531-06a414219e36)
+![Picture2](https://github.com/user-attachments/assets/136d122c-39b2-45f3-810d-7db120b9044c)
+![Picture3](https://github.com/user-attachments/assets/fd89e80d-b636-4316-9f3b-e478af73e0c2)
+
+
+![Picture4](https://github.com/user-attachments/assets/957e4ac0-0750-47a3-bdeb-d60cabcbf434)
